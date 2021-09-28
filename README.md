@@ -1,4 +1,5 @@
 # CompSciIsTuff
-bro this is cool
-we are at school
-I am a fool 
+<title> A <strong>Rap</strong> About My Day
+  <p>bro this is cool</p>
+  <p>we are at school</p>
+  <p>I am a fool</p>
